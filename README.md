@@ -1,2 +1,2 @@
 # Exploring-the-FIFA-19-Dataset
-This repository consists of the FIFA 19 Dataset (from [Kaggle](www.kaggle.com)) and a couple of Jupyter Notebooks showing some exploration and analysis of the FIFA 19 Dataset.
+This repository consists of the FIFA 19 Dataset from [Kaggle](https://www.kaggle.com/) and a couple of Jupyter Notebooks showing some exploration and analysis of the FIFA 19 Dataset.
